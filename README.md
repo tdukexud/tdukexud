@@ -1,13 +1,1 @@
-#### Welcome to my dimension, tdukexud 
-
-Regional Identity Director by day, bug hunter by pixel 
-
-My mind is a matrix of matrixes, parsing pixels with purpose 
-
-**Organic next generation array**, that's my code 
-
-Focus: pixel parsing, precision, and perfection 
-
-Tools: NestJS, AWS, Kubernetes, and Go - the language of the land 
-
-Come for the code, stay for the cosmos
+Shadows dance on the console, whispers of midnight code. I'm Michelle McKenzie, Chief Security Coordinator by day, night owl by night. In the realm of tdukexud, Java is my sword, React and Svelte my shields, MongoDB my map, and Azure my sky. My focus is connecting the fragmented cards of the digital realm. Synchronised, I forecast the optimal path, optimising the trajectory of innovation. Motto: Synchronised optimising forecast.
