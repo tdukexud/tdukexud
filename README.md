@@ -1,1 +1,13 @@
-Tuning crystals to perfect harmony, I resonate at the intersection of code and design. Lead Data Coordinator by day, and master of data sonatas by night. My focus is quantifying the ethereal wavelengths of bandwidths, where the art of UI/UX meets the science of data orchestration. 'Total well-modulated product' is my mantra. Welcome to my sonic realm.
+#### Welcome to my dimension, tdukexud 
+
+Regional Identity Director by day, bug hunter by pixel 
+
+My mind is a matrix of matrixes, parsing pixels with purpose 
+
+**Organic next generation array**, that's my code 
+
+Focus: pixel parsing, precision, and perfection 
+
+Tools: NestJS, AWS, Kubernetes, and Go - the language of the land 
+
+Come for the code, stay for the cosmos
