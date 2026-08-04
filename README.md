@@ -1,1 +1,9 @@
-The ripple effect of streamlined interfaces has begun. I'm Michelle McKenzie, facilitator of harmonious workflows and automation enthusiast. My domain is Rust, where I craft parsers that unveil the beauty of explicit help-desk solutions. Tools in my arsenal include GraphQL, AWS, Azure, and Linux - each an extension of my 'Business-focused explicit help-desk' mantra. Parsing interfaces is where my heart lies, as I believe clarity is the cornerstone of efficient collaboration.
+## Michelle McKenzie's Tangled Web of Assurances
+
+Human Assurance Representative by day, code wrangler by night. My name is Michelle, but you can call me @tdukexud.
+
+My tools of choice are Vue, Svelte, and Flutter. Python is where my heart is, however.
+
+As an open-source enthusiast, I believe in decentralized, high-level portals that empower the masses.
+
+**Navigating arrays: my raison d'être**
