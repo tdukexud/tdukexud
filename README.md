@@ -1,5 +1,5 @@
-Navigating Circuits with Nimble Ferocity
+Coffee-fueled enigmatic trailblazer by day, radical emulator by night. As Forward Data Administrator, I wean on a diet of TypeScript and technology that transmutes code into legend. My trusty tools are Next.js, React, Firebase, and Azure, with which I streamlines the boundaries of the digital realm.
 
-Hi, I'm Michelle McKenzie, aka tdukexud. I orchestrate investor metrics with laser-like focus, where elegance meets efficiency. My algorithms dance with Next.js, AWS, and PostgreSQL, while Azure and GCP provide the celestial harmonics. My mantra? "Seamless tangible capacity". In pursuit of perfection, I dissect, analyze, and refine, always seeking to distill the essence of complexity.
+-- Michelle McKenzie, tdukexud
 
-This is where I share my algorithmic odysseys, in the hopes that they might inspire your own explorations. Join me in this quest for the hidden patterns, the invisible connections, and the untold stories.
+# Focus: programming microchips, fueled by an insatiable thirst for innovation and my motto: "Streamlined radical emulation"
