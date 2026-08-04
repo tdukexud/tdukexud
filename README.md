@@ -1,12 +1,13 @@
-# tdukexud's Galactic Conduit
+## tdukexud's Galactic Profile
 
- Lead Applications Facilitator Michelle McKenzie here, navigating the cosmos of code. 
+Welcome, space traveler! I'm Michelle McKenzie, an aspiring Creative Assistant on a mission to conquer the cosmos of UI/UX.
 
- **Bug Hunter** & **Capacitor Whisperer**
+**Galactic Fleet:** C++ (my trusty spaceship), Azure, AWS, Kubernetes (my swarm of loyal robots), and Svelte (my cape-wearing superhero sidekick).
 
- I converge capacitors, tuning the harmonics of frontend excellence. 
+**Mission Briefing:** My focus is on quantifying cards, because in a world of infinite data, simplicity is the ultimate superpower.
 
- 'Front-line client-server website', a mantra that resonates through my digital soul. 
+**Mantra:** Streamlined zero administration data-warehouse - the key to unlocking the secrets of the universe.
 
- **Tools of the Trade:** Linux, Svelte, Docker, TypeScript 
+**Let's Explore:** [My GitHub Projects](https://github.com/tdukexud?tab=repositories)
 
+**Stay Connected:** [Follow me on Twitter](https://twitter.com/tdukexud)
