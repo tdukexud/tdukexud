@@ -1,7 +1,12 @@
-## tdukexud: Automated Synthesis Evangelist
+# tdukexud's Galactic Conduit
 
-Hi, I'm Michelle McKenzie, but you can call me the automation geek behind the curtain. My role is Future Optimization Executive, and I'm passionate about simplifying complex systems through automation.
+ Lead Applications Facilitator Michelle McKenzie here, navigating the cosmos of code. 
 
-I'm a PHP enthusiast, but I also enjoy dabbling in Node.js, Linux, GraphQL, and SQL. My motto? "Immersive 24/7 knowledge user" - I believe in continually absorbing and applying knowledge to stay ahead.
+ **Bug Hunter** & **Capacitor Whisperer**
 
-My focus is on synthesizing drivers, which means I'm always looking for ways to integrate disparate systems and processes. Want to collaborate on a project that'll change the game? Let's chat!
+ I converge capacitors, tuning the harmonics of frontend excellence. 
+
+ 'Front-line client-server website', a mantra that resonates through my digital soul. 
+
+ **Tools of the Trade:** Linux, Svelte, Docker, TypeScript 
+
