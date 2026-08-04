@@ -1,19 +1,5 @@
-# Terminal Anomaly
+Navigating Circuits with Nimble Ferocity
 
-A shadowy figure lurks in the depths of the terminal, fueled by caffeine and a disdain for feeds.
+Hi, I'm Michelle McKenzie, aka tdukexud. I orchestrate investor metrics with laser-like focus, where elegance meets efficiency. My algorithms dance with Next.js, AWS, and PostgreSQL, while Azure and GCP provide the celestial harmonics. My mantra? "Seamless tangible capacity". In pursuit of perfection, I dissect, analyze, and refine, always seeking to distill the essence of complexity.
 
-Metrics Technician by day, terminal dweller by night.
-
-I'm Michelle, aka tdukexud.
-
-Proficient in:
-
-* Go: the language of the gods
-* NestJS: a framework for the bold
-* Kubernetes: the orchestra conductor
-* Firebase: the all-seeing eye
-* PostgreSQL: the database whisperer
-
-My motto: Optional 24/7 complexity.
-
-I'm not here to follow the crowd. I'm here to bypass feeds.
+This is where I share my algorithmic odysseys, in the hopes that they might inspire your own explorations. Join me in this quest for the hidden patterns, the invisible connections, and the untold stories.
