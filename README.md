@@ -1,16 +1,19 @@
-## Hi there 👋
+# Terminal Anomaly
 
-<!--
-**tdukexud/tdukexud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A shadowy figure lurks in the depths of the terminal, fueled by caffeine and a disdain for feeds.
 
-Here are some ideas to get you started:
+Metrics Technician by day, terminal dweller by night.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Michelle, aka tdukexud.
+
+Proficient in:
+
+* Go: the language of the gods
+* NestJS: a framework for the bold
+* Kubernetes: the orchestra conductor
+* Firebase: the all-seeing eye
+* PostgreSQL: the database whisperer
+
+My motto: Optional 24/7 complexity.
+
+I'm not here to follow the crowd. I'm here to bypass feeds.
