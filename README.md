@@ -1,9 +1,1 @@
-## Michelle McKenzie's Tangled Web of Assurances
-
-Human Assurance Representative by day, code wrangler by night. My name is Michelle, but you can call me @tdukexud.
-
-My tools of choice are Vue, Svelte, and Flutter. Python is where my heart is, however.
-
-As an open-source enthusiast, I believe in decentralized, high-level portals that empower the masses.
-
-**Navigating arrays: my raison d'être**
+Tuning crystals to perfect harmony, I resonate at the intersection of code and design. Lead Data Coordinator by day, and master of data sonatas by night. My focus is quantifying the ethereal wavelengths of bandwidths, where the art of UI/UX meets the science of data orchestration. 'Total well-modulated product' is my mantra. Welcome to my sonic realm.
