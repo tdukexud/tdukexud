@@ -1,25 +1,22 @@
-# tdukexud - Chief Group Producer
+## Welcome to my domain of infinitesimal optimizations
 
-## Night Owl Mastermind
+Michelle McKenzie - tdukexud
+Dynamic Marketing Strategist
+Where every nanosecond counts.
 
-I thrive in the shadows, fueled by caffeine and curiosity. As a Chief Group Producer, I orchestrate chaos into harmony.
+## Toolkit
+- Kotlin: writing frameworks from the ground up
+- Next.js: dynamism in a static world
+- Flutter: crafting high-fidelity experiences
+- GraphQL: an interface to the cosmos
+- GCP: hosting the infinite
+- Vue: transfiguring the digital realm
 
-## Tools & Talents
+## Vibe
+Algorithm explorer. Passionate about transcending traditional marketing boundaries.
 
-C# is my sword, wielded with precision. Redis, AWS, SQL, React, MongoDB, and NestJS are my trusty steeds.
-
-## Focus: Navigating Cards
-
-In a world of endless possibilities, I excel at finding the perfect path. Like a card shark, I navigate the deck with ease.
+## Focus
+Quantifying ports, one byte at a time.
 
 ## Motto
-
-"Customer-focused exuding challenge" - a mantra that drives me to innovate and push boundaries.
-
-## Stay Tuned
-
-For the next big thing from tdukexud.
-
-## Code is Poetry
-
-So, let's create something beautiful together.
+Total 24/7 methodology: the pursuit of limitless scalability.
