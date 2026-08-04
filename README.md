@@ -1,1 +1,21 @@
-Shadows dance on the console, whispers of midnight code. I'm Michelle McKenzie, Chief Security Coordinator by day, night owl by night. In the realm of tdukexud, Java is my sword, React and Svelte my shields, MongoDB my map, and Azure my sky. My focus is connecting the fragmented cards of the digital realm. Synchronised, I forecast the optimal path, optimising the trajectory of innovation. Motto: Synchronised optimising forecast.
+## tdukexud
+
+The Unyielding Code Explorer
+
+### Role: Investor Usability Facilitator
+
+**Vibe:** bug hunter
+
+**Focus:** synthesizing cards, optimizing efficiency through configurability
+
+**Motto:** Configurable value-added throughput, maximizing velocity with each iteration
+
+## Tech Stack
+
+* Main: Rust
+
+* Tools: Redis, React, Kubernetes, NestJS, Firebase, Azure
+
+## About
+
+Where code meets impact, and the pursuit of excellence meets the thrill of discovery.
