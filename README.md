@@ -1,13 +1,9 @@
-## tdukexud's Galactic Profile
+```
+// Code is 90% hiding, 10% seeking
 
-Welcome, space traveler! I'm Michelle McKenzie, an aspiring Creative Assistant on a mission to conquer the cosmos of UI/UX.
+As a terminal dweller, I thrive in the depths of Unix. My fascination with connections stems from the ephemeral dance between systems. In this realm, I've come to realize that software is not a destination, but a bridge.
 
-**Galactic Fleet:** C++ (my trusty spaceship), Azure, AWS, Kubernetes (my swarm of loyal robots), and Svelte (my cape-wearing superhero sidekick).
+At the core of my being lies an obsession with real-time data flows, orchestrated by the Java language and an array of tools that include Kubernetes, Vue, and Firebase. The mantra 'Open-architected real-time approach' fuels my every endeavor.
 
-**Mission Briefing:** My focus is on quantifying cards, because in a world of infinite data, simplicity is the ultimate superpower.
-
-**Mantra:** Streamlined zero administration data-warehouse - the key to unlocking the secrets of the universe.
-
-**Let's Explore:** [My GitHub Projects](https://github.com/tdukexud?tab=repositories)
-
-**Stay Connected:** [Follow me on Twitter](https://twitter.com/tdukexud)
+// tdukexud
+```
